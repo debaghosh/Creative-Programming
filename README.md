@@ -10,4 +10,4 @@ This repository mainly consists of all the new concepts learnt and mini projects
 #### List of Projects:
 |No:   | Name of Project                                                                           | Short Description                                 |
 |------|-------------------------------------------------------------------------------------------|---------------------------------------------------|
-|1     | [A Simple Symmetrical Fractal Tree](https://codepen.io/debaghosh/pen/GRqeKKN?editors=0010)| Slider used to change angle of branches           |
+|1     | [A Simple Symmetrical Fractal Tree](https://codepen.io/debaghosh/full/GRqeKKN)            | Slider used to change angle of branches           |
